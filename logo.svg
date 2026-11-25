@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 150" role="img" aria-label="Microscope and histology logo">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#183b60"/><stop offset="1" stop-color="#6f2a91"/></linearGradient></defs>
+<circle cx="119" cy="75" r="54" fill="#f2eafa" stroke="#7c3aa0" stroke-width="5"/>
+<circle cx="119" cy="75" r="43" fill="none" stroke="#c9a7dd" stroke-width="2" stroke-dasharray="3 5"/>
+<g fill="#8b4bb0" opacity=".9"><circle cx="99" cy="57" r="7"/><circle cx="127" cy="47" r="6"/><circle cx="145" cy="72" r="8"/><circle cx="117" cy="86" r="7"/><circle cx="94" cy="93" r="5"/><circle cx="137" cy="103" r="6"/><circle cx="111" cy="116" r="5"/><circle cx="151" cy="91" r="4"/></g>
+<g stroke="url(#g)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M36 22l31 31M29 29l31 31M54 48l-18 18 24 24 18-18M59 91l-12 17M35 119h72M51 107h44l10 12"/>
+<path d="M73 27l16-16 20 20-16 16"/>
+<path d="M87 44l-17 18"/>
+</g>
+<path d="M45 119c0-13 10-23 23-23h23" stroke="#238c91" stroke-width="8" fill="none" stroke-linecap="round"/>
+</svg>
